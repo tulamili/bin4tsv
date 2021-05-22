@@ -10,3 +10,7 @@ Revision history for the module "bin4tsv" :
 0.012  2021-05-22 sat
        Makefile.PL にて EXE_FILES に少数のファイルを入れて、後でbinに入る様に出来るか試す。
        ディレクトリを bin ではなくて scripts という名前に変更。(Module::Build に合わせた。)
+
+0.0121 2021-05-23 sun
+       GitHub上のレポジトリからcpanmでインストール出来るか試してみる。
+       lib/Changes という不要なファイルを見付けたので除去。
