@@ -14,3 +14,7 @@ Revision history for the module "bin4tsv" :
 0.0121 2021-05-23 sun
        GitHub上のレポジトリからcpanmでインストール出来るか試してみる。
        lib/Changes という不要なファイルを見付けたので除去。
+
+0.0122 2021-05-23 sun
+       レポジトリにv0.0122というタグを付けてみる実験。
+       
