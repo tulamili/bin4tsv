@@ -21,3 +21,5 @@ Revision history for the module "bin4tsv" :
 0.0123 2021-05-23 sun
        レポジトリに bin4tsv-0.0123 というタグを付けてみた。
        MANIFEST.SKIP で正規表現が使えるか実験。 
+       INSTALL を数倍に書き足した。
+
