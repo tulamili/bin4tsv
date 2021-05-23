@@ -1,7 +1,8 @@
 package bin4tsv ; 
 
-our $VERSION = 0.0122 ; 
+our $VERSION = 0.0123 ; 
 our $DATE = '2021-05-22' ; 
+
 =head1 NAME
  
 bin4tsv
