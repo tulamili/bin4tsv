@@ -23,3 +23,6 @@ Revision history for the module "bin4tsv" :
        MANIFEST.SKIP で正規表現が使えるか実験。 
        INSTALL を数倍に書き足した。
 
+0.0124 2021-05-23 sun
+       LICENSE file to be added or written. 
+       perl -MSoftware::License::Perl_5 -E 'my $L=Software::License::Perl_5 -> new( {holder => "Toshiyuki Shimono <bin4tsv@gmail.com>"}) ; print $L -> fulltext ' > LICENSE で18406バイトのファイル作った。
